@@ -1,1 +1,2 @@
-# Effectiveness of Security Metrics
+# Security is a primary concern in the field of information technology, as they have huge amounts of critical data. This study includes three information technology multinational companies because it is most concern about breaches, vulnerability, and disasters. 
+# This study of security metrics gives results in solving security issues by using important task by approaching different methods available to response.
